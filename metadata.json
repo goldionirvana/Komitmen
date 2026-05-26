@@ -1,0 +1,6 @@
+{
+  "name": "A Love Question for Aliyah",
+  "description": "A cute, interactive romantic website asking Aliyah to be together forever.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
